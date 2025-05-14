@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>6954840_602459758</transaction>
+  <purchase>2025-05-27T20:04:13+00:00</purchase>
+  <expiration>2025-05-28T02:04:13+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000006954840</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Data Cleaning</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ilyas, Ihab F.;Chu, Xu;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Association for Computing Machinery</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">6954840</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000006954840</resource>
+      <permissions>
+        <display>
+          <duration>86399</duration>
+        </display>
+        <excerpt>
+          <duration>86399</duration>
+          <count initial="57" max="57" incrementInterval="1515"/>
+        </excerpt>
+        <print>
+          <duration>86399</duration>
+          <count initial="114" max="114" incrementInterval="757"/>
+        </print>
+        <play>
+          <duration>86399</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>uMGMBONWuHdNs1rjY52xdkTwdNE=</hmac>
+</fulfillmentToken>
