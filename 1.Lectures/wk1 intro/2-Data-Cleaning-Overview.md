@@ -48,6 +48,7 @@ Source: *Ge & Helfert, Handbook of Data Quality*
 
 💡 Takeaway: Dirty data is costly even if you choose to ignore or live with it.
 
+> BUNK Cost:A sunk cost in a bad or worthless investment.
 ---
 
 ### 🔸 What is the Goal of Data Cleaning?
