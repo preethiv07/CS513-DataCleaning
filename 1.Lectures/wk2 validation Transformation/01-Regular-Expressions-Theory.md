@@ -74,12 +74,17 @@ Regex patterns belong to **Type-3** languages — the simplest and most restrict
 
 Type-0 ⊇ Type-1 ⊇ Type-2 ⊇ Type-3 (Regular Languages)
 
-| Type   | Description                   |
-|--------|-------------------------------|
-| 0      | Turing-complete languages     |
-| 1      | Context-sensitive             |
-| 2      | Context-free                  |
-| 3      | Regular (can be expressed with regex) ✅ |
+
+
+|Type |Name|Language Class|Machine Needed|
+|-----|-----|-----|-----|
+|Type-0|Recursively enumerable|Most expressive (includes all computable problems)|Turing Machine|
+|Type-1|Context-sensitive|Can use context to decide grammar rules|Linear Bounded Automaton|
+|Type-2|Context-free|Useful for programming languages|Pushdown Automaton|
+|Type-3|Regular (⊆ all others)|Most restricted; simple patterns like regex|Finite Automaton|
+
+
+![alt text](image-8.png)
 
 📌 Regex **cannot** recognize complex constructs like:
 - Palindromes
