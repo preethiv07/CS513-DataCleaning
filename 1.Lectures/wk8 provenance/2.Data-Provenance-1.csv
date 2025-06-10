@@ -1,0 +1,10 @@
+Area,Explanation
+Definitions,Provenance is the origin or earliest history of data; includes ownership records and transformation history.
+W3C Standards,PROV specifications define ontology and data model standards for expressing provenance across systems.
+Scientific Domains,"Provenance spans genealogy, phylogeny, art authentication, and scientific research such as climatology."
+Provenance Tools,Tools like YW allow annotation of code to make implicit workflows explicit; NW captures Python execution.
+Script-Based Provenance,Scripts in R or Python often perform complex workflows; provenance is needed but not embedded by default.
+YesWorkflow Capabilities,YW enables visual modeling of workflows from script comments without modifying the script logic.
+noWorkflow Capabilities,NW records provenance automatically from Python code execution and supports filtered lineage analysis.
+Example Workflows,"Use cases include gene expression analysis, paleoclimate reconstruction, and X-ray diffraction pipelines."
+DataONE Support,DataONE infrastructure captures and utilizes provenance metadata to ensure reproducibility and discovery.

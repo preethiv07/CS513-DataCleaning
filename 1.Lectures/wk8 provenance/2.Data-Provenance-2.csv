@@ -1,0 +1,10 @@
+Topic,Key Points
+Definition of Provenance,"Origin, history, and ownership trail of data or artifacts; critical for trust and quality assessment."
+Provenance in Scientific Workflows,"Provenance ensures reproducibility, transparency, and attribution in scientific research."
+W3C PROV Specifications,"W3C PROV models (PROV-DM, PROV-O, PROV-N, etc.) help structure provenance data; supports querying and reasoning."
+Applications and Domains,"Applicable in cosmology, genealogy, stratigraphy, phylogeny, and climate science."
+Provenance Use Cases,"Used in projects like DataONE, climate assessment, and maize agriculture modeling."
+Provenance Tools: YesWorkflow and noWorkflow,YesWorkflow (YW) supports script-based workflow annotation; noWorkflow (NW) captures Python runtime traces.
+Provenance Visualization,"Visual workflow views (process, data, combined) generated for insight and communication."
+Script Annotation and YW Modeling,"YW uses @BEGIN, @END, @IN, @OUT annotations to capture conceptual structure of scripts."
+Provenance Querying and Integration,"Provenance queries can trace data lineage, identify input-output relationships, and integrate with runtime artifacts."
